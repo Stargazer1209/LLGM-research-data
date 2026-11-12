@@ -98,3 +98,9 @@ If you find our work or modules useful in your research, please cite:
   url     = {https://doi.org/10.1007/s40747-025-01985-8}
 }
 ```
+
+---
+
+## 📄 License
+
+Licensed under the [Apache License 2.0](LICENSE). Redistributions and derivative works must preserve the copyright notice, [NOTICE](NOTICE) attribution, and original paper citation.
